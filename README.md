@@ -3,6 +3,8 @@
 **Contact: `lucachinou@duck.com`**
 
 
-*Learning PyTorch & Transformers*
+
+Learning **Rust**
+
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucachinou&theme=darcula)
