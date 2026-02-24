@@ -2,6 +2,7 @@
 
 **Contact: `lucachinou@duck.com`**
 
+🥖 ≈ good
 
 
 Learning **Rust**
