@@ -2,7 +2,7 @@
 
 **Contact: `lucachinou@duck.com`**
 
-:french_bread: ≈ good
+🥖 ≈ good
 
 
 Learning **Rust**
