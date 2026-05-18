@@ -5,6 +5,8 @@
 🥖 ≈ good
 
 
+
+Currently working on **Xalaro** (That why i have so much contributions in private repos)
 Learning **Rust**
 
 
