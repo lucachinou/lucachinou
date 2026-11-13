@@ -14,4 +14,4 @@ I'm also actively experimenting with AI models, **AI agents, RAG architectures a
 
 🥖 ≈ good
 
-**Learning Numpy & PyTorch** *(to focus on this, i'll not be very active on Github)*
+**Learning Numpy & PyTorch**
