@@ -3,6 +3,7 @@
 **Contact:** `lucachinou@duck.com`
 
 **Hi!** 👋
+
 I'm **Lucachinou**, a student aspiring to become an AI Engineer.
 
 I mainly study **Machine Learning and Deep Learning** through online platforms like DataCamp, using Python, NumPy, PyTorch and scikit-learn.
